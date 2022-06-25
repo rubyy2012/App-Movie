@@ -49,6 +49,7 @@ public class DetailsFragment extends Fragment {
     Button btnFav;
     private boolean isFavorite = false;
 //    private FavoriteResult mMovie;
+    //
     int mCurCheckPosition;
 
     public DetailsFragment() {
